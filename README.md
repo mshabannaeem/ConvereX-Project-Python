@@ -4,15 +4,6 @@ ConvereX is a set of online converters in one website: QR codes, Morse code, bin
 
 The backend is written in Python (Flask) using object-oriented programming. The frontend is a single HTML page styled with Tailwind CSS and one small CSS file, with plain JavaScript for the browser features. The code is commented throughout and kept at a beginner-friendly level, so it also works as a learning project.
 
-<p align="center">
-  <img src="docs/screenshots/home-light.png" alt="ConvereX home page in the light theme" width="49%">
-  <img src="docs/screenshots/home-dark.png" alt="ConvereX home page in the dark theme" width="49%">
-</p>
-<p align="center">
-  <img src="docs/screenshots/converter-page.png" alt="A converter page with its list of conversions and an upload area" width="62%">
-  <img src="docs/screenshots/mobile-home.png" alt="ConvereX home page on a phone" width="24%">
-</p>
-
 ## Contents
 
 - [Features](#features)
